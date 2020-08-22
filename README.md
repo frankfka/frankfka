@@ -1,22 +1,27 @@
 <h1 align="center">Hi 👋, I'm Frank Jia</h1>
 <h3 align="center">Engineering Physics Student. Full-Stack Software Engineer. Fitness Enthusiast.</h3>
 
-- 📚 View the Archive: [frankfka/TheArchive](https://github.com/frankfka/TheArchive)
+<p align="center">
 
-- 👨‍💻 View My Portfolio: [https://jiafrank.com/](https://jiafrank.com/)
+📚 View the Archive: [frankfka/TheArchive](https://github.com/frankfka/TheArchive)
 
-- 📫 Connect: [jiafrank98@gmail.com](mailto:jiafrank98@gmail.com) | [LinkedIn](https://www.linkedin.com/in/jiafrank/)
+👨‍💻 View My Portfolio: [https://jiafrank.com/](https://jiafrank.com/)
 
-### ⚡ Recent Activity
-<!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com//frankfka/Portfolio-Website-V2/pull/1) in [frankfka/Portfolio-Website-V2](https://github.com//frankfka/Portfolio-Website-V2)
-2. ❗️ Closed issue [#23](https://github.com//tiangolo/typer-cli/issues/23) in [tiangolo/typer-cli](https://github.com//tiangolo/typer-cli)
-3. ❗️ Opened issue [#23](https://github.com//tiangolo/typer-cli/issues/23) in [tiangolo/typer-cli](https://github.com//tiangolo/typer-cli)
-4. 🗣 Commented on [#16](https://github.com//pyTigerGraph/pyTigerGraph/issues/16) in [pyTigerGraph/pyTigerGraph](https://github.com//pyTigerGraph/pyTigerGraph)
-5. ❗️ Opened issue [#16](https://github.com//pyTigerGraph/pyTigerGraph/issues/16) in [pyTigerGraph/pyTigerGraph](https://github.com//pyTigerGraph/pyTigerGraph)
-<!--END_SECTION:activity-->
+📫 Connect: [jiafrank98@gmail.com](mailto:jiafrank98@gmail.com) | [LinkedIn](https://www.linkedin.com/in/jiafrank/)
 
-### ✍🏽 Blog Posts
+</p>
+
+### 📸 Github Snapshot
+
+Thanks to [anuraghazra](https://github.com/anuraghazra/github-readme-stats)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=frankfka" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frankfka&hide=html" />
+
+### ✍🏽 Latest Blog Posts
+
+Thanks to [gautamkrishnar](https://github.com/gautamkrishnar/blog-post-workflow)
+
 <!-- BLOG-POST-LIST:START -->
 - [Create a Multi-Segment Picker in SwiftUI](https://medium.com/better-programming/how-to-multi-segment-picker-in-swiftui-9c5b909971f5?source=rss-a777d7e94e27------2)
 - [Cancelled Internships — Where to Go Next? Learning from My Experience.](https://levelup.gitconnected.com/cancelled-internships-where-to-go-next-learning-from-my-experience-3819ddb2eb1e?source=rss-a777d7e94e27------2)
