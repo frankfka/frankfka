@@ -9,6 +9,11 @@
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
+1. ❌ Closed PR [#1](https://github.com//frankfka/Portfolio-Website-V2/pull/1) in [frankfka/Portfolio-Website-V2](https://github.com//frankfka/Portfolio-Website-V2)
+2. ❗️ Closed issue [#23](https://github.com//tiangolo/typer-cli/issues/23) in [tiangolo/typer-cli](https://github.com//tiangolo/typer-cli)
+3. ❗️ Opened issue [#23](https://github.com//tiangolo/typer-cli/issues/23) in [tiangolo/typer-cli](https://github.com//tiangolo/typer-cli)
+4. 🗣 Commented on [#16](https://github.com//pyTigerGraph/pyTigerGraph/issues/16) in [pyTigerGraph/pyTigerGraph](https://github.com//pyTigerGraph/pyTigerGraph)
+5. ❗️ Opened issue [#16](https://github.com//pyTigerGraph/pyTigerGraph/issues/16) in [pyTigerGraph/pyTigerGraph](https://github.com//pyTigerGraph/pyTigerGraph)
 <!--END_SECTION:activity-->
 
 ### ✍🏽 Blog Posts
