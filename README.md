@@ -29,11 +29,11 @@ Thanks to [anuraghazra](https://github.com/anuraghazra/github-readme-stats)
 Thanks to [gautamkrishnar](https://github.com/gautamkrishnar/blog-post-workflow)
 
 <!-- BLOG-POST-LIST:START -->
+- [Building Solutions with PayID — The Future of Cryptocurrency Payments](https://medium.com/@frankjia/building-solutions-with-payid-the-future-of-cryptocurrency-payments-f56cc0d548ae?source=rss-a777d7e94e27------2)
 - [Create a Multi-Segment Picker in SwiftUI](https://medium.com/better-programming/how-to-multi-segment-picker-in-swiftui-9c5b909971f5?source=rss-a777d7e94e27------2)
 - [Cancelled Internships — Where to Go Next? Learning from My Experience.](https://levelup.gitconnected.com/cancelled-internships-where-to-go-next-learning-from-my-experience-3819ddb2eb1e?source=rss-a777d7e94e27------2)
 - [Better RESTful Image Transfer: Multipart Uploads with Python Flask & Swift](https://levelup.gitconnected.com/better-restful-image-transfer-multipart-uploads-with-python-flask-swift-38a34d4e6e1f?source=rss-a777d7e94e27------2)
 - [RESTful Image Transfer with Base64 Encoding](https://medium.com/swlh/restful-image-transfer-with-base64-encoding-cd9fb4453598?source=rss-a777d7e94e27------2)
-- [How to Conditionally Apply View Modifiers in SwiftUI](https://medium.com/better-programming/conditionally-applying-view-modifiers-in-swiftui-c5541711eb41?source=rss-a777d7e94e27------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 💻 Languages & Technologies
