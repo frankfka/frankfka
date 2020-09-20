@@ -12,7 +12,7 @@
 
 ### 🔨 Latest Activity
 
-- Incoming iOS intern at Shopify
+- iOS intern at Shopify
 - On a Hackathon streak
 - Seeking 2021 Summer internship opportunities
 - Weightlifting & learning to play tennis
