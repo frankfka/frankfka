@@ -12,10 +12,10 @@
 
 ### 🔨 Latest Activity
 
-- iOS intern at Shopify
-- On a Hackathon streak
-- Seeking 2021 Summer internship opportunities
-- Weightlifting & learning to play tennis
+- Full-stack intern at Redfin
+- Staying active & trying cool recipes
+- Maintaining a daily yoga streak
+- Looking for cool 👨‍💻 projects
 
 ### 📸 Github Snapshot
 
